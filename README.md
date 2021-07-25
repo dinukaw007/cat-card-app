@@ -4,9 +4,9 @@ Some of libraries and packages in the given code was outdated and deprecated. Th
 
 | Previous Package   |      New Package      |  Reason to change |
 |----------|:-------------:|------:|
-|request |  axios | “request” package is deprecated |
-| @mapbox/blend |    sharp   |   “@mapbox/blend” package was last updated in 3 years ago.   And it is not supporting for node newer versions. |
-|  |  |    Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env |
+|request |  axios |“request” package is deprecated |
+|@mapbox/blend |    sharp   |“@mapbox/blend” package was last updated in 3 years ago.   And it is not supporting for node newer versions. |
+|dotenv |  |Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env |
 
 
 ## How to run the Programme
