@@ -12,12 +12,14 @@ Some of libraries and packages in the given code was outdated and deprecated. Th
 ## How to run the Programme
 
 ### Prerequisite 
-Programme has been written in Node.js firstly, install node v14.2.0 
+Programme has been written in Node.js firstly, install node v14.2.0
+
 Following node packages used in solution 
-• axios: "^0.21.1",
-•	dotenv: "^10.0.0",
-•	minimist: "^1.2.5",
-•	sharp: "^0.28.3"
+
+* axios: "^0.21.1",
+* dotenv: "^10.0.0",
+* minimist: "^1.2.5",
+* sharp: "^0.28.3"
 
 
 Firstly, run npm install in terminal
