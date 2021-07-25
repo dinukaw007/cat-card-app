@@ -1,0 +1,17 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "minimist": "^1.2.5",
+    "sharp": "^0.28.3"
+  }
+}
